@@ -1,0 +1,207 @@
+{
+"items": {
+    {
+        "category":"Desayunos",
+        "items":[
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/desayuno1.jpg"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/desayuno2.jpg"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            }
+        ]
+    },
+    {
+        "category":"Almuerzos",
+        "items":[
+            {
+                "name":"Huevos rancheros",
+                "descripcion":"",
+                "price":"",
+                "image":"img/"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            }
+        ]
+    },
+    {
+        "category":"Comidas",
+        "items":[
+            {
+                "name":"Huevos rancheros",
+                "descripcion":"",
+                "price":"",
+                "image":"img/"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            }
+        ]
+    },
+    {
+        "category":"Cenas",
+        "items":[
+            {
+                "name":"Huevos rancheros",
+                "descripcion":"",
+                "price":"",
+                "image":"img/"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            }
+        ]
+    },
+    {
+        "category":"Postres",
+        "items":[
+            {
+                "name":"Huevos rancheros",
+                "descripcion":"",
+                "price":"",
+                "image":"img/"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+        ]
+    },
+    {
+        "category":"Bebidas",
+        "items":[
+            {
+                "name":"Huevos rancheros",
+                "descripcion":"",
+                "price":"",
+                "image":"img/"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },{
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            },
+            {
+                "name":"Pan frances",
+                "descripcion":"",
+                "price":"$45",
+                "image":"img/des"
+            }
+        ]
+    }
+}
+}

@@ -1,0 +1,65 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8" >
+     <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Perfil de Leslie</title>
+</head>
+<body>
+
+    <style>
+        body{
+            background-color: #b0f5fa;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: darkblue(10, 7, 2); /* esto es para el color de la letra*/
+            text-align: center;
+        }
+        .perfil{
+            margin: 20px auto;
+            width: 80%;
+            max-width: 600px;
+            background-color: rgb(164, 224, 252);
+            padding: 20px;
+            box-shadow: 0 0 10px black;
+        }
+        .foto-perfil{
+            width: 250px; 
+            height: auto; 
+            border-radius: 50%;
+            margin: 0 auto; 
+            display: block;
+        }    
+        ul{
+            list-style: circle;
+            padding: right;
+        }
+    </style>
+   <div class="perfil">
+    <img src="bbokari.jpg" alt="bbokari skzoo"
+    class="foto-perfil">
+    <h1 id="nombre">Leslie Valdez</h1>
+    <h3 id="especialidad">Programacion</h3>
+    <h2>Gustos personales</h2>
+    <ul>
+        <li id="musica">Musica favorita</li>
+        <li id="programas">Programas Favoritos</li>
+    </ul>
+    <h2>Informacion de contacto</h2>
+    <p id="897675479">Telefono</p>
+    <p id="lesvdd3@gmail.com">Correo</p>
+    <p id="Amo leer y ver peliculas">Biografia</p>
+   </div>
+
+   <script>
+    document.addEventListener(" DOMContentloaded"), function(){
+    document.getElementById("nombre").textContent='Leslie Valdez';
+    document.getElementById("especialidad").textContent="Programacion";
+    document.getElementById("musica").textContent='Taylor swift,Stray Kids,Jesse and Joy,Laufey,lana del Rey';
+    document.getElementById("programas").textContent='Ladybug,Flash,Stranger things,Gilmore Girls';
+
+   }
+   </script>
+   
+</body>
+</html>
